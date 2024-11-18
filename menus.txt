@@ -1,0 +1,10 @@
+PizzaHut Margherita 9.99
+PizzaHut Pepperoni 10.99
+BurgerKing Whopper 8.49
+BurgerKing Fries 2.99
+Subway VeggieSub 6.99
+Subway ChickenSub 7.99
+KFC FriedChicken 5.99
+KFC GrilledChicken 7.49
+Dominos CheesePizza 9.49
+Dominos VeggiePizza 8.99

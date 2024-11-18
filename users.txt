@@ -1,0 +1,11 @@
+Name: Vaibhav
+Address: IIITN
+Phone: 7009181779
+
+Order Summary:
+Whopper from BurgerKing - $8.49
+Whopper from BurgerKing - $8.49
+
+Total Bill: $21.48
+===
+

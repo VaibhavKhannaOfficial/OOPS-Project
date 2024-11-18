@@ -1,0 +1,5 @@
+PizzaHut 6.990000 35
+BurgerKing 4.500000 25
+Subway 3.750000 20
+KFC 6.000000 35
+Dominos 5.000000 30
